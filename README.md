@@ -24,11 +24,3 @@ Este proyecto tiene como objetivo desarrollar un sistema de gestión para un clu
     - Registrar partidos jugados y permitir consultar los resultados.
 3. **Pruebas unitarias**: Implementar un conjunto de pruebas unitarias para validar todas las funcionalidades mencionadas en el punto 2.
 
-## Tecnologías Recomendadas
-
-- **Lenguaje de programación**: Java, Python, o cualquier otro que soporte POO.
-- **Framework de pruebas**: JUnit, PyTest, o similar.
-
-## Objetivo del Proyecto
-
-El sistema proporcionará una solución eficiente para la gestión de actividades deportivas en un club, asegurando un registro adecuado de deportistas, entrenadores, equipos y partidos, así como una consulta rápida de los resultados.
